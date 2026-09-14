@@ -19,23 +19,37 @@ The analysis explored:
 - Remote and non-remote opportunities
 - Emerging technology areas
 - Implications for technology training and workforce preparation
+  
 
 ## Data Collection
 
-Job-posting data was collected from publicly available sources, including:
+Job-posting data was collected from publicly available sources, including online job boards such as Indeed and JobMag, company career websites, and other relevant job-posting sources.
 
-- Indeed
-- JobMag
-- Company career websites
-- Other publicly available job-posting sources
+The research focused specifically on technology-related opportunities open to African candidates and associated with African countries.
 
-The dataset contains 160 verified job postings from 129 employers across 13 African countries and 24 industries.
+The final dataset contains 160 verified job postings from 129 employers across 13 African countries and 24 industries.
 
 ## Data Preparation
 
-The collected job-posting data was reviewed and prepared for analysis.
+The collected job postings were organized into a structured dataset for analysis.
 
-The preparation process involved organizing the collected records, standardizing relevant fields, checking the dataset for inconsistencies, and preparing the information for analysis and visualization.
+The preparation process involved reviewing the collected records, organizing relevant job-market attributes, checking the dataset for inconsistencies, and preparing the data for analysis and visualization.
+
+The cleaned dataset was then used to support the analysis and dashboard development.
+
+## Analytical Approach
+
+The analysis was structured around several dimensions of the African technology job market:
+
+- Job-role demand
+- Employer-required skills
+- Geographic distribution
+- Industry representation
+- Remote and non-remote opportunities
+- Emerging technology areas
+
+These dimensions were analyzed to identify patterns in employer demand and areas where technology training and workforce preparation could better align with the job market.
+
 
 ## Analysis
 

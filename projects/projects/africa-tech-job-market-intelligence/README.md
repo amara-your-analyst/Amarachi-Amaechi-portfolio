@@ -37,19 +37,6 @@ The preparation process involved reviewing the collected records, organizing rel
 
 The cleaned dataset was then used to support the analysis and dashboard development.
 
-## Analytical Approach
-
-The analysis was structured around several dimensions of the African technology job market:
-
-- Job-role demand
-- Employer-required skills
-- Geographic distribution
-- Industry representation
-- Remote and non-remote opportunities
-- Emerging technology areas
-
-These dimensions were analyzed to identify patterns in employer demand and areas where technology training and workforce preparation could better align with the job market.
-
 
 ## Analysis
 
@@ -64,9 +51,6 @@ The analysis examined patterns across:
 
 The findings were then translated into visual summaries through the accompanying dashboard.
 
-## Dashboard
-
-The dashboard presents the major patterns identified in the job-market dataset and allows the findings to be interpreted from different perspectives, including role demand, skills, geography, industry and work arrangement.
 
 ## Key Findings
 
@@ -138,41 +122,6 @@ More than half of the observed postings did not specify a work mode.
 
 Training providers and job-market researchers should therefore avoid interpreting the dataset as evidence that remote, hybrid or on-site work is generally more or less common across Africa. The high proportion of unspecified postings indicates a limitation in the available information.
 
-## Project Outcome
-
-The project produced a structured dataset and analytical dashboard for exploring technology job-market patterns across Africa.
-
-The completed work included:
-
-- Collection and verification of 160 technology job postings
-- Coverage of 129 employers across 13 African countries and 24 industries
-- Organization and preparation of job-market data for analysis
-- Analysis of job-role and skill demand
-- Analysis of geographic and industry distribution
-- Analysis of remote, hybrid, on-site and unspecified work arrangements
-- Identification of frequently requested tools and emerging technology areas
-- Development of an interactive dashboard to communicate the findings
-- Translation of the observed patterns into implications for technology training and workforce preparation
-
-The project demonstrates an end-to-end workflow from publicly available research data collection through data preparation, analysis, visualization and interpretation.
-
-## Tools
-
-- Excel
-- Power BI
-- Data Cleaning
-- Data Analysis
-- Data Visualization
-- Research Analytics
-
-## Project Deliverables
-
-- Raw dataset — redacted for privacy
-- Cleaned dataset
-- Analytical dashboard
-- Project documentation
-
-
 ## Limitations
 
 Several limitations should be considered when interpreting the findings.
@@ -196,6 +145,45 @@ Work-mode information was not consistently provided across the collected posting
 ### Time sensitivity
 
 Technology skills, roles and employer requirements can change over time. The findings therefore describe the patterns captured during the period in which the dataset was collected and should not be treated as a permanent representation of the African technology job market.
+
+
+## Project Outcome
+
+The project produced a structured dataset and analytical dashboard for exploring technology job-market patterns across Africa.
+
+The completed work included:
+
+- Collection and verification of 160 technology job postings
+- Coverage of 129 employers across 13 African countries and 24 industries
+- Organization and preparation of job-market data for analysis
+- Analysis of job-role and skill demand
+- Analysis of geographic and industry distribution
+- Analysis of remote, hybrid, on-site and unspecified work arrangements
+- Identification of frequently requested tools and emerging technology areas
+- Development of an interactive dashboard to communicate the findings
+- Translation of the observed patterns into implications for technology training and workforce preparation
+
+The dashboard presents the major patterns identified in the job-market dataset and allows the findings to be interpreted from different perspectives, including role demand, skills, geography, industry and work arrangement.
+
+The project demonstrates an end-to-end workflow from publicly available research data collection through data preparation, analysis, visualization and interpretation.
+
+
+## Tools
+
+- Excel
+- Power BI
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Research Analytics
+
+## Project Deliverables
+
+- Raw dataset — redacted for privacy
+- Cleaned dataset
+- Analytical dashboard
+- Project documentation
+
 
 ## Author
 

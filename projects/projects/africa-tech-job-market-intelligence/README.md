@@ -154,11 +154,30 @@ Training providers and job-market researchers should therefore avoid interpretin
 - Analytical dashboard
 - Project documentation
 
+
 ## Limitations
 
-The analysis is based on publicly available job postings collected from selected sources. Therefore, the dataset may not represent every technology vacancy across Africa.
+Several limitations should be considered when interpreting the findings.
 
-Job postings also represent advertised demand rather than a complete measure of the labour market or actual hiring outcomes.
+### Public-source coverage
+
+The dataset was compiled from publicly available job postings across selected job boards, company websites and other online sources. It therefore does not represent every technology vacancy across Africa.
+
+### Uneven geographic representation
+
+Although the dataset covers 13 African countries, the distribution of postings was not even. Nigeria accounted for 78 of the 160 observed postings, meaning the findings should not be interpreted as an equal representation of technology employment demand across all African countries.
+
+### Advertised demand versus actual hiring
+
+Job postings represent advertised employer demand. They do not necessarily indicate the number of people ultimately hired, the difficulty of filling a role, or the total number of available positions in a particular occupation.
+
+### Incomplete work-mode information
+
+Work-mode information was not consistently provided across the collected postings. More than half of the observed postings had an unspecified work arrangement, limiting the conclusions that can be drawn about remote, hybrid and on-site work.
+
+### Time sensitivity
+
+Technology skills, roles and employer requirements can change over time. The findings therefore describe the patterns captured during the period in which the dataset was collected and should not be treated as a permanent representation of the African technology job market.
 
 ## Author
 

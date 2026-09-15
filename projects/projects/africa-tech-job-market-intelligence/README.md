@@ -106,13 +106,37 @@ However, 51.3% of postings did not have a clearly specified work mode in the dat
 
 The dataset covered 13 African countries and 24 industries, allowing the analysis to examine technology demand across different geographic and industry contexts rather than focusing on a single market.
 
-## Business Relevance
+## Recommendations & Implications
 
-The findings can help training providers and other workforce-development stakeholders better understand the relationship between:
+The findings suggest several implications for technology training and workforce-development providers.
 
-**Employer demand → Required skills → Training priorities**
+### 1. Align training programmes with observed employer demand
 
-This provides a data-informed basis for evaluating whether existing training programmes align with the skills and roles appearing in the job market.
+Data Analyst was the most frequently observed role in the dataset, while data-related tools such as MySQL, Excel, Power BI and Python also appeared frequently.
+
+Training providers can use this type of market evidence to review whether their programmes adequately cover the roles and tools appearing in current job postings.
+
+### 2. Combine technical training with professional skills
+
+Communication was the most frequently identified skill in the dataset, appearing more often than several technical and analytical skills.
+
+This suggests that technical training alone may not fully reflect the requirements observed in job advertisements. Communication, problem solving, analytical thinking, reporting and attention to detail can be incorporated alongside technical training.
+
+### 3. Review curricula regularly
+
+Technology roles and employer requirements can change over time. Training providers can periodically analyze job postings to identify new tools, technologies and skill requirements and use the findings to inform curriculum updates.
+
+### 4. Consider geographic differences in employer demand
+
+The observed opportunities were concentrated in a small number of countries, with Nigeria accounting for the largest share of postings in this dataset.
+
+Training and workforce-development programmes targeting specific African markets may therefore benefit from examining local and regional employer demand rather than assuming that requirements are identical across the continent.
+
+### 5. Treat remote-work data carefully
+
+More than half of the observed postings did not specify a work mode.
+
+Training providers and job-market researchers should therefore avoid interpreting the dataset as evidence that remote, hybrid or on-site work is generally more or less common across Africa. The high proportion of unspecified postings indicates a limitation in the available information.
 
 ## Tools
 

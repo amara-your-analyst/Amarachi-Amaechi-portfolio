@@ -70,9 +70,41 @@ The dashboard presents the major patterns identified in the job-market dataset a
 
 ## Key Findings
 
-Key findings from the analysis are presented in the accompanying dashboard.
+The analysis identified several notable patterns across the 160 job postings.
 
-The dashboard was used to identify patterns in employer demand and highlight areas that may be relevant to technology training, curriculum development and workforce preparation.
+### 1. Data Analyst was the most frequently observed job role
+
+Data Analyst was the most frequently observed role in the dataset, with 54 postings, followed by Software Engineer with 18 postings.
+
+Other frequently observed roles included Digital Marketer, Graphics Designer, Social Media Manager, Quality Assurance, AI Automator, Web Developer, Customer Service and Data Engineer.
+
+### 2. Nigeria accounted for the largest share of observed job postings
+
+Nigeria had 78 of the 160 observed job postings, followed by South Africa with 35 and Kenya with 26.
+
+This indicates that the dataset had a strong concentration of observed opportunities in a small number of African countries, particularly Nigeria.
+
+### 3. Communication was the most frequently identified skill
+
+Communication was the most frequently identified skill, appearing 41 times, followed by Data Analysis (17), Problem Solving (13), Content Creation (10), Attention to Detail (9) and Reporting (9).
+
+The results suggest that employer requirements extended beyond technical skills to include communication and other professional competencies.
+
+### 4. Data and business technology tools featured prominently
+
+MySQL, Excel, Power BI and Python were among the most frequently requested tools in the dataset, with 42, 40, 30 and 25 occurrences respectively.
+
+This highlights the importance of both data-management and analytical tools within the observed technology job market.
+
+### 5. Work-mode information was frequently unspecified
+
+Remote opportunities represented 15.6% of the observed postings, while on-site and hybrid opportunities represented 20.6% and 12.5% respectively.
+
+However, 51.3% of postings did not have a clearly specified work mode in the dataset. This limits the ability to draw strong conclusions about the overall prevalence of remote, on-site or hybrid work from this sample alone.
+
+### 6. Job opportunities were distributed across multiple industries and countries
+
+The dataset covered 13 African countries and 24 industries, allowing the analysis to examine technology demand across different geographic and industry contexts rather than focusing on a single market.
 
 ## Business Relevance
 

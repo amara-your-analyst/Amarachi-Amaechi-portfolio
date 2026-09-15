@@ -138,6 +138,24 @@ More than half of the observed postings did not specify a work mode.
 
 Training providers and job-market researchers should therefore avoid interpreting the dataset as evidence that remote, hybrid or on-site work is generally more or less common across Africa. The high proportion of unspecified postings indicates a limitation in the available information.
 
+## Project Outcome
+
+The project produced a structured dataset and analytical dashboard for exploring technology job-market patterns across Africa.
+
+The completed work included:
+
+- Collection and verification of 160 technology job postings
+- Coverage of 129 employers across 13 African countries and 24 industries
+- Organization and preparation of job-market data for analysis
+- Analysis of job-role and skill demand
+- Analysis of geographic and industry distribution
+- Analysis of remote, hybrid, on-site and unspecified work arrangements
+- Identification of frequently requested tools and emerging technology areas
+- Development of an interactive dashboard to communicate the findings
+- Translation of the observed patterns into implications for technology training and workforce preparation
+
+The project demonstrates an end-to-end workflow from publicly available research data collection through data preparation, analysis, visualization and interpretation.
+
 ## Tools
 
 - Excel

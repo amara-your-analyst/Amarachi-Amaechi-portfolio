@@ -27,3 +27,18 @@ Key areas included:
 - Relationships between treatment cost, length of stay, and patient outcomes
 
 These areas were explored through interactive visualisations and summary metrics in Power BI to provide a clearer view of the underlying patient data.
+
+## Data Preparation
+
+The patient dataset was reviewed and structured to support analysis and reporting.
+
+The preparation process included:
+
+- Reviewing the dataset structure and variables
+- Checking data completeness
+- Validating date and numerical fields
+- Organising patient, treatment, cost, and outcome variables for analysis
+- Preparing calculated measures such as hospital stay duration
+- Structuring the data for Power BI visualisation and reporting
+
+The prepared dataset served as the underlying data source for the Power BI dashboard.

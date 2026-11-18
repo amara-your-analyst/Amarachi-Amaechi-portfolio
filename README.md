@@ -28,7 +28,7 @@ This repository contains selected projects across:
 | Category | Tools |
 |---|---|
 | Spreadsheets | Excel, Google Sheets |
-| BI & Visualization | Power BI |
+| BI & Visualization | Power BI, Looker Studio |
 | Programming | Python, SQL |
 | Data Collection | ODK |
 
